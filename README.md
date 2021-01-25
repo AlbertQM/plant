@@ -12,3 +12,7 @@
 *          Tasnia Khan                                                       *
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *  *
 ```
+
+## Product pitch
+Click to play the video.
+[![Snapshot of PLANT](https://i.imgur.com/oDFWL3m.jpg)](https://www.youtube.com/watch?v=ghbR-zf9WAA)
